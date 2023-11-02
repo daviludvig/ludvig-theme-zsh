@@ -7,4 +7,4 @@
 
 V1 looking:
 
-<img src="docs/v1.png" width="280" alt = "v1 look">
+<img src="docs/v1.png" width="400" alt = "v1 look">
