@@ -5,6 +5,7 @@
 * Firstly, you have to download `ludvig.zsh-theme`
 * Place it inside `~/.oh-my-zsh/themes`
 * Now set __ZSH_THEME__ to **ludvig** in your `~/.zshrc`
+
 [Official instructions from Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
 V1 looking:
