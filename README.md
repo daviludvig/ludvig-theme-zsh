@@ -9,6 +9,6 @@
 
 [Official instructions from Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
-V1 looking:
+Current looking:
 
-<img src="docs/v1.png" width="400" alt = "v1 look">
+<img src="docs/current.png" width="400" alt = "v1 look">
