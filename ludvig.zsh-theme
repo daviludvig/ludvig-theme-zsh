@@ -1,23 +1,20 @@
 
-# purple username
+# Machine username
 username() {
    echo "%{$FG[046]%}%n%{$reset_color%}"
 }
 
-# current directory, two levels deep
+# Two levels deep directory
 directory() {
    echo "%{$FG[004]%}%2~%{$reset_color%}"
 }
 
-#aaaaa
-
-
-# current time with milliseconds
+# Minute and hour 
 current_time() {
    echo "%T"
 }
 
-# returns 👾 if there are errors, nothing otherwise
+# Error return status
 return_status() {
    echo "%(?..👾)"
 }
