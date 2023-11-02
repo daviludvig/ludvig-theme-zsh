@@ -6,4 +6,5 @@
 [Official instructions from Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
 V1 looking:
-![v1](docs/v1.png)
+
+<img src="docs/v1.png" width="280" alt = "v1 look">
