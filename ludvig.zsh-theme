@@ -1,7 +1,7 @@
 
 # Machine username
 username() {
-   echo "%{$FG[034]%}%n%{$reset_color%}"
+   echo "%{$FG[034]%}%n@%m%{$reset_color%}"
 }
 
 # Two levels deep directory
