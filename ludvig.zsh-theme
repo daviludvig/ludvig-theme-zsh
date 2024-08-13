@@ -32,5 +32,5 @@ ZSH_THEME_GIT_PROMPT_DIRTY="%{$FG[099]%})%{$fg[red]%}*"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$FG[099]%})"
 
 # putting it all together
-PROMPT='%B$(username) $(directory) $(git_prompt_info)%b $ '
+PROMPT='[%B$(username) $(directory)] $(git_prompt_info)%b$ '
 RPROMPT='$(current_time)$(return_status)'
